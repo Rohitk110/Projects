@@ -1,1 +1,1 @@
-## Pairs Trading (Time Series) Project.
+## Pairs Trading (Time Series) Project
