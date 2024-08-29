@@ -3,7 +3,7 @@
 This project delves into pairs trading using co-integration analysis to uncover potential trading opportunities among correlated stocks. The analysis involves sophisticated statistical techniques and simulations to assess trading strategy viability.
 
 ### Project Highlights:
-### Data Collection: Aggregated data for potentially correlated stock pairs.
+#### Data Collection: Aggregated data for potentially correlated stock pairs.
 #### Co-Integration Analysis: Applied statistical methods to identify and validate relationships between stocks.
 #### Monte Carlo Simulations: Evaluated the trading strategy's robustness across various market scenarios.
 
