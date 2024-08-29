@@ -15,9 +15,9 @@ In this project, I explore the dynamics of startup data through extensive explor
 - Seaborn
 
 ### How to Use:
-Install the required libraries.
-Run the startup_analysis.py script to perform EDA and classification tasks.
-Examine the accuracy and performance metrics in the results directory.
+1. Install the required libraries.
+2. Run the startup_analysis.py script to perform EDA and classification tasks.
+3. Examine the accuracy and performance metrics in the results directory.
 
 ### Outcome: 
 The analysis reveals actionable insights into startup characteristics and trends, with a high-accuracy classification model providing valuable predictive power.
