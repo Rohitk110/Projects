@@ -1,6 +1,7 @@
 # Title: Statistical Analysis and Predictive Modeling Projects
 
-#### Overview: Welcome to my GitHub repository showcasing a collection of advanced statistical analysis and predictive modeling projects. As a student pursuing an MSc in Statistics at IIT Kanpur, I have delved into diverse methodologies ranging from co-integration and regression analysis to machine learning and data visualization. This repository highlights my hands-on experience and problem-solving skills through various self-driven projects.
+### Overview:
+Welcome to my GitHub repository showcasing a collection of advanced statistical analysis and predictive modeling projects. As a student pursuing an MSc in Statistics at IIT Kanpur, I have delved into diverse methodologies ranging from co-integration and regression analysis to machine learning and data visualization. This repository highlights my hands-on experience and problem-solving skills through various self-driven projects.
 
 ## Project List:
 
