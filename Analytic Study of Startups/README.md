@@ -8,11 +8,11 @@ In this project, I explore the dynamics of startup data through extensive explor
 #### Classification Models: Implemented Logistic Regression, Decision Trees, and Random Forest with a notable accuracy of 92%.
 
 ### Dependencies:
-Python 3.x
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+- Python 3.x 
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 ### How to Use:
 Install the required libraries.
